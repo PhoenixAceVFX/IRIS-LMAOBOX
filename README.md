@@ -40,6 +40,7 @@ Zade (dstnct)
 
 # Download  
 ![Download Banner](https://i.imgur.com/7mZU64v.png)  
+## REMEMBER TO INSTALL FONTS FIRST!!
 [Google Drive](https://drive.google.com/drive/folders/1aswyVUrlsoP_hZSdEndCJcwGxZ-qg9i-?usp=share_link) or from [This Repository](https://github.com/PhoenixAceVFX/IRIS-LMAOBOX/releases/latest)  
 
 # Scripts Included in IRIS  
