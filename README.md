@@ -30,6 +30,7 @@ Derser (Habnone)
 Pred (Pred14)  
 IamTheTrophy (DemonLoverHVH)  
 Zade (dstnct)  
+HazeL (HazeL)  
 
 # Screenshots  
 ![Screenshots Banner](https://i.imgur.com/APMtpGF.png)  
@@ -67,5 +68,7 @@ https://lmaobox.net/forum/v/discussion/21732/votereveal-lua
 I want to see whos voting what as well as whos calling votes on the other team  
 https://lmaobox.net/forum/v/discussion/22705/lua-chams-menu  
 Not available in Optimized build  
+https://lmaobox.net/forum/v/discussion/22900/better-double-tap-indicator  
+This DT Bar is only in the Optimized Build  
 
 </div>
