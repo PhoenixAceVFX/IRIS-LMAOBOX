@@ -95,7 +95,7 @@ local function IRISWatermark()
 
         draw.SetFont(tempest)
         draw.Color(r, g, b, 255)
-        draw.Text(10, 465, "IRIS Indicators")
+        draw.Text(10, 365, "IRIS Indicators")
         draw.SetFont(tahoma)
         draw.Color(255, 255, 255, 255)
         if globals.FrameCount() % 50 == 0 then
@@ -103,58 +103,58 @@ local function IRISWatermark()
         --   clientstate.GetLatencyOut = math.floor( 1 / globals.FrameTime())
         end
         draw.Color(235, 225, 52, 255)
-        draw.Text(10, 480, "Triggerbot: " .. (triggerbot == 1 and "ON" or "OFF"))
+        draw.Text(10, 380, "Triggerbot: " .. (triggerbot == 1 and "ON" or "OFF"))
         -- checks if ESP is enabled then renders text
         draw.Color(110, 235, 52, 255)
-        draw.Text(10, 495, "ESP: " .. (esp == 1 and "ON" or "OFF"))
+        draw.Text(10, 395, "ESP: " .. (esp == 1 and "ON" or "OFF"))
         -- checks if the aimbot is enabled then renders the aim fov
         if (aimbot == 1) then
             draw.Color(255, 255, 255, 255)
-            draw.Text(10, 540, "AimFov: " .. aimbotfov .. "")
+            draw.Text(10, 440, "AimFov: " .. aimbotfov .. "")
         else
             draw.Color(255, 255, 255, 255)
-            draw.Text(10, 540, "Aimbot is DISABLED")
+            draw.Text(10, 440, "Aimbot is DISABLED")
         end
         -- checks if BunnyHop is enabled then renders text
         draw.Color(229, 255, 0, 255)
-        draw.Text(10, 510, "Bunnyhop: " .. (bhop == 1 and "ON" or "OFF"))
+        draw.Text(10, 410, "Bunnyhop: " .. (bhop == 1 and "ON" or "OFF"))
         -- checks if the aimbot is enabled then renders text
         draw.Color(255, 0, 0, 255)
-        draw.Text(10, 525, "AimBot: " .. (aimbot == 1 and "ON" or "OFF"))
-        draw.Text(10, 555, "AimMethod: " .. aimbotMethod .. "")
+        draw.Text(10, 425, "AimBot: " .. (aimbot == 1 and "ON" or "OFF"))
+        draw.Text(10, 455, "AimMethod: " .. aimbotMethod .. "")
         -- checks if anti-aim is enabled then renders text
         if (aa == 1) then
             draw.Color(255, 0, 0, 255)
-            draw.Text(10, 570, "AA: WARNING: ON")
+            draw.Text(10, 470, "AA: WARNING: ON")
             draw.Color(255, 255, 255, 255)
         else
             draw.Color(255, 255, 255, 255)
-            draw.Text(10, 570, "AA: OFF")
+            draw.Text(10, 470, "AA: OFF")
         end
         draw.Color(171, 86, 232, 255)
-        draw.Text(10, 585, "Anti-OBS: " .. (antiobs == 1 and "ON" or "OFF"))
+        draw.Text(10, 485, "Anti-OBS: " .. (antiobs == 1 and "ON" or "OFF"))
         draw.Color(225, 232, 86, 255)
-        draw.Text(10, 600, "NoScope: " .. (noscope == 1 and "ON" or "OFF"))
+        draw.Text(10, 500, "NoScope: " .. (noscope == 1 and "ON" or "OFF"))
         draw.Color(171, 86, 232, 255)
-        draw.Text(10, 615, "NoHands: " .. (nohands == 1 and "ON" or "OFF"))
+        draw.Text(10, 515, "NoHands: " .. (nohands == 1 and "ON" or "OFF"))
         draw.Color(178, 232, 86, 255)
-        draw.Text(10, 630, "FOVChanger: " .. (customfov == 1 and "ON" or "OFF"))
+        draw.Text(10, 530, "FOVChanger: " .. (customfov == 1 and "ON" or "OFF"))
         if (customfov == 1) then
             draw.Color(178, 232, 86, 255)
-            draw.Text(10, 645, "ViewFOV: " .. fovvalue .. "")
+            draw.Text(10, 545, "ViewFOV: " .. fovvalue .. "")
         else
             draw.Color(255, 255, 255, 255)
-            draw.Text(10, 645, "FOVChanger is DISABLED")
+            draw.Text(10, 545, "FOVChanger is DISABLED")
         end
         draw.Color(225, 232, 86, 255)
-        draw.Text(10, 660, "Fake Ping: " .. (fakeping == 1 and "ON" or "OFF"))
+        draw.Text(10, 560, "Fake Ping: " .. (fakeping == 1 and "ON" or "OFF"))
         if (fakeping == 1) then
-            draw.Text(100, 660, "-Value: " .. fakepingvalue .. "")
+            draw.Text(100, 560, "-Value: " .. fakepingvalue .. "")
         end
         draw.Color(225, 232, 86, 255)
-        draw.Text(10, 675, "Trigger Del: " .. triggerdel)
+        draw.Text(10, 575, "Trigger Del: " .. triggerdel)
         draw.Color(161, 86, 232, 255)
-        draw.Text(10, 690, "Thirdp: " .. (thirdperson == 1 and "ON" or "OFF"))
+        draw.Text(10, 590, "Thirdp: " .. (thirdperson == 1 and "ON" or "OFF"))
     end
 
     draw.SetFont(tf)
@@ -342,28 +342,28 @@ local function secondary()
     draw.Color(r, g, b, 255)
     if engine.IsGameUIVisible(true) then
     else
-        draw.Text(10, 300, "IRIS Priority IDs")
+        draw.Text(10, 200, "IRIS Priority IDs")
         draw.SetFont(tahoma)
         draw.Color(66, 135, 245, 255)
-        draw.Text(10, 315, "1 - Crybaby")
+        draw.Text(10, 215, "1 - Crybaby")
         draw.Color(250, 119, 32, 255)
-        draw.Text(10, 330, "2 - Easily Annoyed")
+        draw.Text(10, 230, "2 - Easily Annoyed")
         draw.Color(0, 255, 119, 255)
-        draw.Text(10, 345, "3 - Streamer")
+        draw.Text(10, 245, "3 - Streamer")
         draw.Color(138, 152, 104, 255)
-        draw.Text(10, 360, "4 - Vote Caller")
+        draw.Text(10, 260, "4 - Vote Caller")
         draw.Color(105, 66, 0, 255)
-        draw.Text(10, 375, "5 - Annoying")
+        draw.Text(10, 275, "5 - Annoying")
         draw.Color(255, 136, 0, 255)
-        draw.Text(10, 390, "6 - Tryhard")
+        draw.Text(10, 290, "6 - Tryhard")
         draw.Color(0, 0, 255, 255)
-        draw.Text(10, 405, "7 - Closet")
+        draw.Text(10, 305, "7 - Closet")
         draw.Color(0, 255, 255, 255)
-        draw.Text(10, 420, "8 - Sus")
+        draw.Text(10, 320, "8 - Sus")
         draw.Color(255, 0, 255, 255)
-        draw.Text(10, 435, "9 - Bot")
+        draw.Text(10, 335, "9 - Bot")
         draw.Color(255, 17, 0, 255)
-        draw.Text(10, 450, "10 - Cheater")
+        draw.Text(10, 350, "10 - Cheater")
     end
 end
 --[[
@@ -404,7 +404,7 @@ local function event_hook(ev)
                 health,
                 ping
             ),
-            delay = globals.RealTime() + 5.5,
+            delay = globals.RealTime() + 1,
             alpha = 0
         }
     )
@@ -429,7 +429,7 @@ local function paint_logs()
     for i, v in pairs(queue) do
         local alpha = floor(v.alpha)
         local text = v.string
-        local y_pos = floor(685) + (i * 20)
+        local y_pos = floor(0) + (i * 15)
         draw.Color(255, 255, 255, alpha)
         draw.Text(10, y_pos, text)
     end
@@ -438,7 +438,7 @@ end
 local function anim()
     for i, v in pairs(queue) do
         if globals.RealTime() < v.delay then --checks if delay is over or not
-            v.alpha = math.min(v.alpha + 1, 255) --fade in animation
+            v.alpha = math.min(v.alpha + 10, 255) --fade in animation
         else
             v.string = string.sub(v.string, 1, string.len(v.string) - 1) --removes last character
             if 0 >= string.len(v.string) then
