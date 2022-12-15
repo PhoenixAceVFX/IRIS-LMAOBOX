@@ -15,9 +15,6 @@ Yes I know that this was probably pointless but I did it anyway
 # NOTES  
 ![NOTES Banner](https://i.imgur.com/BaejxlC.png)  
 It is recommended to install the provided font files so that the text overlays from the script look as they should  
-There are 2 versions of IRIS, Optimized and Unstable  
-Unstable is the full thing with everything I use thrown in but also runs the risk of lag and crashing  
-Optimized has the problems stripped out with most of the script still in tact (utils and chams are gone)  
 I don't know how long I'll keep doing this because this was originally meant to be private  
 
 # CREDITS  
@@ -34,10 +31,8 @@ HazeL (HazeL)
 
 # Screenshots  
 ![Screenshots Banner](https://i.imgur.com/APMtpGF.png)  
-## Optimized  
-![Optimized Preview](https://i.imgur.com/ayrXtD6.jpg)  
-## Unstable  
-![Unstable Preview](https://i.imgur.com/ncthhYA.jpg)  
+## Release V1.1  
+![Optimized Preview](https://i.imgur.com/Pf50NWJ.png)  
 
 # Download  
 ![Download Banner](https://i.imgur.com/7mZU64v.png)  
@@ -52,8 +47,6 @@ https://lmaobox.net/forum/v/discussion/21714/spy-warning-indicator
 Good indicator  
 https://lmaobox.net/forum/v/discussion/22516/better-playersorter  
 IRIS Priority IDs is made from this  
-https://lmaobox.net/forum/v/discussion/21858/miscellaneous-tools-with-menu  
-Not available in Optimized build  
 https://lmaobox.net/forum/v/discussion/21767/x88cheats-menu  
 Its how I made the IRIS Indicators  
 https://lmaobox.net/forum/v/discussion/22832/yet-another-crit-indicator  
@@ -66,9 +59,7 @@ https://lmaobox.net/forum/v/discussion/22007/skeet-gamesense-styled-watermark
 Used this to make the watermark at the top right  
 https://lmaobox.net/forum/v/discussion/21732/votereveal-lua  
 I want to see whos voting what as well as whos calling votes on the other team  
-https://lmaobox.net/forum/v/discussion/22705/lua-chams-menu  
-Not available in Optimized build  
 https://lmaobox.net/forum/v/discussion/22900/better-double-tap-indicator  
-This DT Bar is only in the Optimized Build  
+Broke Man's DT Ripoff 
 
 </div>
