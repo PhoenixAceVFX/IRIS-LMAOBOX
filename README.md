@@ -32,7 +32,7 @@ HazeL (HazeL)
 # Screenshots  
 ![Screenshots Banner](https://i.imgur.com/APMtpGF.png)  
 ## Release V1.1  
-![Optimized Preview](https://i.imgur.com/Pf50NWJ.png)  
+![Release V1.1 Preview](https://i.imgur.com/bPKW03W.png)  
 
 # Download  
 ![Download Banner](https://i.imgur.com/7mZU64v.png)  
