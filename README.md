@@ -27,7 +27,7 @@ Derser (Habnone)
 Pred (Pred14)  
 IamTheTrophy (DemonLoverHVH)  
 Zade (dstnct)  
-HazeL (HazeL)  
+Smissmas (Haze)  
 
 # Screenshots  
 ![Screenshots Banner](https://i.imgur.com/APMtpGF.png)  
