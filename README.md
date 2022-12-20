@@ -32,7 +32,7 @@ Smissmas (Haze)
 # Screenshots  
 ![Screenshots Banner](https://i.imgur.com/APMtpGF.png)  
 ## Release V1.1  
-![Release V1.1 Preview](https://i.imgur.com/bPKW03W.png)  
+![Release V1.1 Preview](https://i.imgur.com/vOgsEzn.png)  
 
 # Download  
 ![Download Banner](https://i.imgur.com/7mZU64v.png)  
@@ -61,5 +61,7 @@ https://lmaobox.net/forum/v/discussion/21732/votereveal-lua
 I want to see whos voting what as well as whos calling votes on the other team  
 https://lmaobox.net/forum/v/discussion/22900/better-double-tap-indicator  
 Broke Man's DT Ripoff 
+https://lmaobox.net/forum/v/discussion/22983/kda-display-and-kd-calculator  
+Kills, Deaths, and Assists indicator  
 
 </div>
