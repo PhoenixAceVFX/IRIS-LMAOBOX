@@ -60,7 +60,7 @@ Used this to make the watermark at the top right
 https://lmaobox.net/forum/v/discussion/21732/votereveal-lua  
 I want to see whos voting what as well as whos calling votes on the other team  
 https://lmaobox.net/forum/v/discussion/22900/better-double-tap-indicator  
-Broke Man's DT Ripoff 
+Broke Man's DT Ripoff  
 https://lmaobox.net/forum/v/discussion/22983/kda-display-and-kd-calculator  
 Kills, Deaths, and Assists indicator  
 
